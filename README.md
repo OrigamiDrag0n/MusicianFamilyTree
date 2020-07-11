@@ -2,7 +2,7 @@
 A galaxy of 6491 musicians and their pupils, showing the complicated web of the history of music. 
 
 <a href="https://v.redd.it/wc5dhs12m7a51/DASH_720?source=fallback
-" target="_blank"><img src="https://i.imgur.com/a/3m7P8Ne.jpg" 
+" target="_blank"><img src="https://i.imgur.com/BX9uPzG.jpg" 
 alt="Galaxy of musicians"/></a>
 
 ## Overview
