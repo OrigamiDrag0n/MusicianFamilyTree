@@ -2,8 +2,8 @@
 A galaxy of 6491 musicians and their pupils, showing the complicated web of the history of music. 
 
 <a href="https://v.redd.it/wc5dhs12m7a51/DASH_720?source=fallback
-" target="_blank"><img src="https://i.imgur.com/a/3m7P8Ne.png" 
-alt="Galaxy of musicians" width="240" height="180" border="10" /></a>
+" target="_blank"><img src="https://i.imgur.com/a/3m7P8Ne.jpg" 
+alt="Galaxy of musicians"/></a>
 
 ## Overview
 * The code scrapes data from Wikipedia, from the articles listing *music students by teacher* (e.g, 
