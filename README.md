@@ -21,3 +21,7 @@ modules respectively).
 
 * Then, the wonderful [NetworkX](https://networkx.github.io/documentation/stable/) module is used to create a
 graph object, and [MatPlotLib](https://matplotlib.org/) is used to create beautiful styling. 
+
+## Software release
+
+The code has been compiled, and the current release can be found on [SourceForge](https://sourceforge.net/projects/musicalgalaxy).
