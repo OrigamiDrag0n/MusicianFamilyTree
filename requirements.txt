@@ -1,4 +1,4 @@
-requests==2.24.0
+requests==2.31.0
 bs4==4.9.1
 progressbar==3.51.4
 networkx==2.4
